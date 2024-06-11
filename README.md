@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heorhi</h1>
-<h3 align="center">A developer from Belarus</h3>
+<h3 align="center">A Java Developer</h3>
 
 <h3> 🔬💻 Software engineer passionate about solving complex problems at the intersection of science and technology. Currently focused on developing Lynx, a powerful software for modeling radioactive spread. Combining expertise in physics, mathematics, and computer science to create accurate simulations with real-world impact. Dedicated to pushing the boundaries of simulation technology to enhance nuclear safety and environmental risk assessment. Open to collaboration and eager to contribute to projects that make a difference. </h3>
 
